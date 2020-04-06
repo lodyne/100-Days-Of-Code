@@ -2,7 +2,7 @@
 
 ## Round 1
 
-### Day 1: April 4, 2020
+### Day 1: April 6, 2020
 
 **Today's Progress** : I add some posts in my onbuilding Django Blog App.
 
