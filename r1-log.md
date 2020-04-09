@@ -25,3 +25,11 @@
 **Thoughts** : Off-mood, i didnt try as much.
 
 **Link to Work** : [PROLIFE](https://github.com/lodyne/PROLIFE)
+
+### Day 4: April 9, 2020
+
+**Today's Progress** : Revision for Django QuerySets.
+
+**Thoughts** : I caught myself off-guard, the best way is to revise.
+
+**Link to Work** : [PROLIFE](https://github.com/lodyne/PROLIFE)
