@@ -33,3 +33,11 @@
 **Thoughts** : I caught myself off-guard, the best way is to revise.
 
 **Link to Work** : [PROLIFE](https://github.com/lodyne/PROLIFE)
+
+### Day 5: April 10, 2020
+
+**Today's Progress** : Designing Dropdown menu using css.
+
+**Thoughts** : I came to realize css sucks,But i must master it.
+
+**Link to Work** : [PROLIFE](https://github.com/lodyne/PROLIFE)
