@@ -41,3 +41,12 @@
 **Thoughts** : I came to realize css sucks,But i must master it.
 
 **Link to Work** : [PROLIFE](https://github.com/lodyne/PROLIFE)
+
+### Day 6: April 11, 2020
+
+**Today's Progress** : Starting Machine Learning project.
+
+**Thoughts** : Weekends are for AI.
+
+**Link to Work** :
+
