@@ -50,3 +50,19 @@
 
 **Link to Work** :
 
+### Day 6: April 16, 2020
+
+**Today's Progress** : Django Project Review.
+
+**Thoughts** : Skip so many days,back on track.
+
+**Link to Work** :
+
+### Day 6: April 17, 2020
+
+**Today's Progress** : Learning about Emmet and Better Comments extensions in VS code.
+
+**Thoughts** : Its about time to master some VS code extensions.
+
+**Link to Work** :
+
