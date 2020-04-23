@@ -50,15 +50,15 @@
 
 **Link to Work** :
 
-### Day 6: April 16, 2020
+### Day 7: April 16, 2020
 
 **Today's Progress** : Django Project Review.
 
 **Thoughts** : Skip so many days,back on track.
 
-**Link to Work** :
+**Link to Work** : [PROLIFE](https://github.com/lodyne/PROLIFE)
 
-### Day 6: April 17, 2020
+### Day 8: April 17, 2020
 
 **Today's Progress** : Learning about Emmet and Better Comments extensions in VS code.
 
@@ -66,3 +66,34 @@
 
 **Link to Work** :
 
+### Day 9: April 20, 2020
+
+**Today's Progress** : Learning Django CRUD
+
+**Thoughts** : I studied abt ListView and DetailView
+
+**Link to Work** : [PROLIFE](https://github.com/lodyne/PROLIFE)
+
+### Day 10: April 21, 2020
+
+**Today's Progress** : Learning Django CRUD
+
+**Thoughts** : I studied abt DetailView and CreateView
+
+**Link to Work** : [PROLIFE](https://github.com/lodyne/PROLIFE)
+
+### Day 11: April 22, 2020
+
+**Today's Progress** : Learning about Emmet and Better Comments extensions in VS code.
+
+**Thoughts** : I studied abt CreateView
+
+**Link to Work** : [PROLIFE](https://github.com/lodyne/PROLIFE)
+
+### Day 12: April 23, 2020
+
+**Today's Progress** : Learning about Django CRUD.
+
+**Thoughts** : I studied abt UpdateView and DeleteView
+
+**Link to Work** : [PROLIFE](https://github.com/lodyne/PROLIFE)
