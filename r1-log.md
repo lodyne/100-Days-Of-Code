@@ -97,3 +97,27 @@
 **Thoughts** : I studied abt UpdateView and DeleteView
 
 **Link to Work** : [PROLIFE](https://github.com/lodyne/PROLIFE)
+
+### Day 13: April 24, 2020
+
+**Today's Progress** : Learning about Django CRUD.
+
+**Thoughts** : Review abt UpdateView and DeleteView
+
+**Link to Work** : [PROLIFE](https://github.com/lodyne/PROLIFE)
+
+### Day 14: April 27, 2020
+
+**Today's Progress** : Jumping to some other side project (Library app).
+
+**Thoughts** : Learn abt File Upload and Forms Handling in a nutshell.
+
+**Link to Work** :
+
+### Day 15: April 28, 2020
+
+**Today's Progress** : Continue and finish up this Library app.
+
+**Thoughts** : I copy and paste most of the codes, but it reveal me some concepts such as File Up;load and Form Handling.
+
+**Link to Work** :
