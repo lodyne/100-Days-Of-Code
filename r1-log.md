@@ -118,6 +118,30 @@
 
 **Today's Progress** : Continue and finish up this Library app.
 
-**Thoughts** : I copy and paste most of the codes, but it reveal me some concepts such as File Up;load and Form Handling.
+**Thoughts** : I copy and paste most of the codes, but it reveal me some concepts such as File Upload and Form Handling.
 
 **Link to Work** :[libraryapp](https://github.com/lodyne/libraryapp)
+
+### Day 16-18: April 29-May 1, 2020
+
+**Today's Progress** : Dealing with class based views in prolife app
+
+**Thoughts** . Learnt abt difference btn function and class based views
+
+**Link to Work** :[PROLIFE](https://github.com/lodyne/PROLIFE)
+
+### Day 19-23: May 4-May 8, 2020
+
+**Today's Progress** : Dealing with file upload concepts
+
+**Thoughts** . I was able to design some django app for file upload
+
+**Link to Work** :
+
+### Day 24: May 11, 2020
+
+**Today's Progress** : Dealing with  Pagination in Prolife app
+
+**Thoughts** .A lot of concepts and many of them i ddnt get catch them at first glance.
+
+**Link to Work** :[PROLIFE](https://github.com/lodyne/PROLIFE)
