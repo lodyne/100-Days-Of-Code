@@ -145,3 +145,11 @@
 **Thoughts** .A lot of concepts and many of them i ddnt get catch them at first glance.
 
 **Link to Work** :[PROLIFE](https://github.com/lodyne/PROLIFE)
+
+### Day 25-26: May 12- May 13, 2020
+
+**Today's Progress** : Sort up the pagination and pagiantion in specific user
+
+**Thoughts** : Still a lot of things i need to review so as to catch them easily later on.
+
+**Link to Work** :[PROLIFE](https://github.com/lodyne/PROLIFE)
